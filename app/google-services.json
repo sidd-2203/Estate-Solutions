@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "128122194977",
+    "project_id": "estatesolutions-6be3b",
+    "storage_bucket": "estatesolutions-6be3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128122194977:android:ec52b04a991a29bfb6a760",
+        "android_client_info": {
+          "package_name": "com.example.estatesolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128122194977-4rf141irq00onle24a8j5pss689gj443.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estatesolutions",
+            "certificate_hash": "23be25b2d7062aa07421a9e31d602982806da838"
+          }
+        },
+        {
+          "client_id": "128122194977-kchmp68udcio0099hl42deu53bulvojm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJPTFnBvyA8aM4S3EKghaUgXtBFP5J9y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128122194977-kchmp68udcio0099hl42deu53bulvojm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

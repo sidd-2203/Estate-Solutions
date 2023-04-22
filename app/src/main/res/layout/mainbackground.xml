@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:backgroundTint="#06E0EE"
+        app:cardPreventCornerOverlap="true"
+        app:cardCornerRadius="40dp">
+
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="600dp"
+        android:elevation="8dp"
+        android:id="@+id/cdview1"
+        android:alpha="0.71"
+        android:backgroundTint="#000000"
+        app:cardCornerRadius="30dp" />
+</FrameLayout>
